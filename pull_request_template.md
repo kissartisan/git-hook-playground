@@ -5,7 +5,7 @@
 <!--- Remove the item that are not applicable to your update -->
 - [ ] Did you branch out from UAT?
 - [ ] Did you test your changes on your local?
-- [ ] Did you run the related unit tests to make sure nothing breaks?
+- [ ] Have you run the related unit tests to make sure nothing breaks?
 - [ ] Have you updated or created any unit tests for this change?
 
 ### Description
